@@ -5,7 +5,7 @@ Other features follow...
 
 ## Usage
 
-Keyboard: Press E 
+Keyboard: Press E <br>
 Controller: Press DPadDown + Y
 
 Change Keybinds in the PassengerKI.ini 
