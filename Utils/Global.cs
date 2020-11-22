@@ -24,8 +24,18 @@ namespace PassengerKI.Utils
         {
             public static Keys EnterPassenger { get; set; }
             public static Keys EnterPassengerModifier { get; set; }
+
             public static ControllerButtons EnterPassengerController { get; set; }
             public static ControllerButtons EnterPassengerControllerModifier { get; set; }
+
+            public static Keys DriveToMarker { get; set; }
+
+            public static Keys DriveToMarkerModifier { get; set; }
+
+
+            public static ControllerButtons DriveToMarkerController { get; set; }
+
+            public static ControllerButtons DriveToMarkerControllerModifier { get; set; }
         }
 
         internal static class Dynamics
