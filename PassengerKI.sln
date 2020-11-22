@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2046
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PassengerKI", "PassengerKI.csproj", "{2D7BD48D-0F45-4074-B3F4-806679FB359C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D7BD48D-0F45-4074-B3F4-806679FB359C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D7BD48D-0F45-4074-B3F4-806679FB359C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D7BD48D-0F45-4074-B3F4-806679FB359C}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D7BD48D-0F45-4074-B3F4-806679FB359C}.Release|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FE49CE79-B411-4D48-997B-3D6EA2B29804}
+	EndGlobalSection
+EndGlobal
