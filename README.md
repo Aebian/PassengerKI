@@ -11,16 +11,18 @@ This also works for air type vehicles like choppers. You can customize the drive
 Below are the default keybinds and settings.  See the settings file for more options. 
 
 ### Enter as Passenger
-Keyboard: Press E <br>
-Controller: Press DPadDown + Y
+Keyboard: Press <kbd>E</kbd> <br>
+Controller: Press <kbd>DPadDown</kbd> + <kbd>Y</kbd>
 
 ### Spawn Driver (while in passenger seat)
-Keyboard: Press E <br>
-Controller: Press DPadDown + Y
+Keyboard: Press <kbd>E</kbd> <br>
+Controller: Press <kbd>DPadDown</kbd> + <kbd>Y</kbd> <br>
+Press <kbd>E</kbd> again to tell the driver to exit the vehicle and leave you alone.
 
 ### Drive To Marker
-Keyboard: Press Space <br>
-Controller: Press DPadLeft + X
+Keyboard: Press <kbd>Space</kbd> <br>
+Controller: Press <kbd>DPadLeft</kbd> + <kbd>X</kbd> <br>
+Press Space again to update the route at any time.
 
 Change Keybinds in the PassengerKI.ini 
 
@@ -28,3 +30,12 @@ Change Keybinds in the PassengerKI.ini
 
 Drop the two files (.dll & .ini) into the plugins dir in your GTA V folder.
 Start the game with RPH and load the plugin. 
+
+## Current Version
+
+v0.3
+
+## Current Bugs / Features not working
+
+Not tested with planes and choppers, use at your own risk. 
+Currently the plugin is fully tested with vehicles only.
