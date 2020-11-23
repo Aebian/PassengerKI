@@ -32,7 +32,6 @@ namespace PassengerKI.Utils
 
             public static Keys DriveToMarkerModifier { get; set; }
 
-
             public static ControllerButtons DriveToMarkerController { get; set; }
 
             public static ControllerButtons DriveToMarkerControllerModifier { get; set; }
@@ -41,6 +40,8 @@ namespace PassengerKI.Utils
         internal static class Dynamics
         {
             public static Vehicle[] NearestVehicle { get; set; }
+
+            public static Ped SecurityDriver { get; set; }
         }
     }
 }

@@ -12,11 +12,11 @@ Below are the default keybinds and settings.  See the settings file for more opt
 
 ### Enter as Passenger
 Keyboard: Press E <br>
-Controller: Press DPadLeft + Y
+Controller: Press DPadDown + Y
 
 ### Spawn Driver (while in passenger seat)
 Keyboard: Press E <br>
-Controller: Press DPadLeft + Y
+Controller: Press DPadDown + Y
 
 ### Drive To Marker
 Keyboard: Press Space <br>
@@ -26,5 +26,5 @@ Change Keybinds in the PassengerKI.ini
 
 ## Installation
 
-Drop the two files into the plugins dir in your GTA V folder.
+Drop the two files (.dll & .ini) into the plugins dir in your GTA V folder.
 Start the game with RPH and load the plugin. 

@@ -37,7 +37,7 @@ namespace PassengerKI.Utils
             EnterPassengerModifier = settings.ReadString("Keybinds", "EnterPassengerModifier", "None");
 
             EnterPassengerController = settings.ReadString("Keybinds", "EnterPassengerController", "Y");
-            EnterPassengerControllerModifier = settings.ReadString("Keybinds", "EnterPassengerControllerModifier", "DPadLeft");
+            EnterPassengerControllerModifier = settings.ReadString("Keybinds", "EnterPassengerControllerModifier", "DPadDown");
 
             DriveToMarker = settings.ReadString("Keybinds", "DriveToMarker", "Space");
             DriveToMarkerModifier = settings.ReadString("Keybinds", "DriveToMarkerModifier", "None");
