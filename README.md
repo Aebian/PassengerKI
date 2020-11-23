@@ -22,7 +22,7 @@ Press <kbd>E</kbd> again to tell the driver to exit the vehicle and leave you al
 ### Drive To Marker
 Keyboard: Press <kbd>Space</kbd> <br>
 Controller: Press <kbd>DPadLeft</kbd> + <kbd>X</kbd> <br>
-Press Space again to update the route at any time.
+Press <kbd>Space</kbd> again to update the route at any time.
 
 Change Keybinds in the PassengerKI.ini 
 
