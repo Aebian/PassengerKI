@@ -26,7 +26,7 @@ namespace PassengerKI.Utils
                 ServicePointManager.SecurityProtocol = SecurityProtocolType.Tls12;
 
                 Logger.Log("Fetching latest plugin version from Repo");
-                response = hc.GetStringAsync(new Uri("https://adm.knight-industries.org/updates/PassengerKI/latestVersion.txt")).Result;
+                response = hc.GetStringAsync(new Uri("https://adm.nethavn.com/updates/PassengerKI/latestVersion.txt")).Result;
             }
             catch (Exception ex)
             {
